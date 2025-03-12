@@ -22,9 +22,7 @@
 
 7. **Conversão de temperatura (Celsius para Fahrenheit)**
    - Peça uma temperatura em graus **Celsius** e converta para **Fahrenheit** usando a fórmula:
-     \[
-     \text{Fahrenheit} = (\text{Celsius} \times \frac{9}{5}) + 32
-     \]
+   [Celsius=(Fahrenheit-32)/1.8].
 
 8. **Cálculo do tempo de viagem**
    - Peça ao usuário a **distância** (em km) e a **velocidade média** (em km/h) e exiba o **tempo estimado** da viagem (tempo = distância / velocidade).
@@ -32,9 +30,7 @@
 9. **Cálculo do valor final de um produto com desconto**
    - Solicite o **preço original** de um produto e o **percentual de desconto** aplicado.
    - Exiba o **valor final** após o desconto, usando a fórmula:
-     \[
-     \text{valorFinal} = \text{preco} - (\text{preco} \times \frac{\text{desconto}}{100})
-     \]
+     [valorFinal =preco - (preco * (desconto/100))]
 
 10. **Divisão e resto da divisão**
     - Peça **dois números inteiros** e exiba o resultado da **divisão inteira** (/) e o **resto da divisão** (%).
