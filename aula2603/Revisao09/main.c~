@@ -1,0 +1,21 @@
+#include <stdio.h>
+
+int main(void) {
+    double nota1, nota2, media;
+    printf("Digite a primeira nota: \n");
+    scanf("%lf", &nota1);
+    printf("Digite a segunda nota: \n");
+    scanf("%lf", &nota2);
+    media = (nota1 + nota2) / 2;
+    if (media == 10) {
+        printf("Aprovado com disticao\n");
+    }else if (media >= 7) {
+        printf("Aprovado\n");
+    }else if (media >= 3) {
+        printf("Exame\n");
+    }else {
+        printf("Reprovado\n");
+    }
+    printf("Sua media foi %.1lf\n", media);
+    return 0;
+}
