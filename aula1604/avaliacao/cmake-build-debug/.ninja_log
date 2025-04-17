@@ -1,0 +1,8 @@
+# ninja log v6
+16	433	7665475685883828	build.ninja	294629a45d010a8
+25	622	7665448058191167	CMakeFiles/avaliacao.dir/questao1.c.obj	ff47fa83057164b
+115	317	7665462876448459	avaliacao.exe	dd04e49cc5629e21
+34	154	7665450932677525	CMakeFiles/avaliacao.dir/questao2.c.obj	fa1f5d57acb9808d
+30	274	7665456003755742	CMakeFiles/avaliacao.dir/questao3.c.obj	cbc710a4a0e19e37
+18	160	7665458529523597	CMakeFiles/avaliacao.dir/questao4.c.obj	bfe1a37dc5c0461b
+6	115	7665462875360391	CMakeFiles/avaliacao.dir/questao5.c.obj	4c2f2a06473fdffe

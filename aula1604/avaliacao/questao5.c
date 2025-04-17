@@ -1,0 +1,17 @@
+#include <stdio.h>
+
+int main() {
+    int valor1, valor2;
+    printf("Digite um valor 1: \n");
+    scanf("%d", &valor1);
+    printf("Digite um valor 2: \n");
+    scanf("%d", &valor2);
+    if (valor1 == valor2) {
+        printf("sao iguais\n");
+    }else {
+        valor1 > valor2 ? printf("Valor 1 eh maior\n") : printf("Valor 2 eh maior\n");
+    }
+
+    valor1 == valor2 ? printf("iguais\n") : valor1 > valor2 ? printf("Valor1 maior \n") : printf("Valor 2 maior\n");
+
+}
