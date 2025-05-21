@@ -8,7 +8,7 @@ int main() {
     for (int i = 0; i < N; i++) {
         do {
             scanf("%d", &numero);
-        }while (numero < 1 || numero > 1000);
+        }while (numero < -1000 || numero > 1000);
         if (numero % 2 == 0) {
             pares++;
         }

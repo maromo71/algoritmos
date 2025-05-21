@@ -22,9 +22,9 @@ int main() {
         }
         // Se for primo, faz a soma
         if (eh_primo) {
-           soma += i;
+            soma += i;
         }
     }
-    printf("%d\n", soma);
+    printf("Soma final: %d\n", soma);
     return 0;
 }

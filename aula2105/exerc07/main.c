@@ -6,7 +6,7 @@ int main()
     long pri_termo = 1, prox_termo = 1, fibo_atual;
     do {
         scanf("%d", &n);
-    }while (n<0 || n>20);
+    }while (n<3 || n>20);
     for (int i = 3; i <= n; i++) {
         fibo_atual = pri_termo + prox_termo;
         pri_termo = prox_termo;

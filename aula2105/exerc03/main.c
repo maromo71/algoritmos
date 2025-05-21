@@ -3,14 +3,11 @@
 
 int main() {
     int N;
-    int primeiro = 1;
     do {
         scanf("%d", &N);
-    }while (N<1 || N>100);
-    for (int i = 1; i <= N; i++) {
-        if (i % 3 == 0) {
-            printf("%d ", i);
-        }
+    }while (N<1 || N>1000);
+    for (int i = 3; i <= N; i+=3) {
+        printf("%d ", i);
     }
     printf("\n");
     return 0;
