@@ -1,3 +1,0 @@
-C:/algoritmos/aula2603/Exemplo07/cmake-build-debug/CMakeFiles/Exemplo07.dir
-C:/algoritmos/aula2603/Exemplo07/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/algoritmos/aula2603/Exemplo07/cmake-build-debug/CMakeFiles/rebuild_cache.dir

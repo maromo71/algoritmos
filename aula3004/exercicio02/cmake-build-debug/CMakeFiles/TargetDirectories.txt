@@ -1,3 +1,0 @@
-C:/algoritmos/aula3004/exercicio02/cmake-build-debug/CMakeFiles/exercicio02.dir
-C:/algoritmos/aula3004/exercicio02/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/algoritmos/aula3004/exercicio02/cmake-build-debug/CMakeFiles/rebuild_cache.dir

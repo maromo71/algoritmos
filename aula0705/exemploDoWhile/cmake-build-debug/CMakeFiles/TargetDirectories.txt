@@ -1,3 +1,0 @@
-C:/algoritmos/aula0705/exemploDoWhile/cmake-build-debug/CMakeFiles/exemploDoWhile.dir
-C:/algoritmos/aula0705/exemploDoWhile/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/algoritmos/aula0705/exemploDoWhile/cmake-build-debug/CMakeFiles/rebuild_cache.dir

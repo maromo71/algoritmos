@@ -1,7 +1,0 @@
-#include <stdio.h>
-
-int main(void) {
-    int somapar = 0;
-    for
-    return 0;
-}

@@ -1,3 +1,0 @@
-C:/algoritmos/aula0705/exemploValidar/cmake-build-debug/CMakeFiles/exemploValidar.dir
-C:/algoritmos/aula0705/exemploValidar/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/algoritmos/aula0705/exemploValidar/cmake-build-debug/CMakeFiles/rebuild_cache.dir
