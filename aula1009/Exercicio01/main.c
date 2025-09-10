@@ -1,8 +1,11 @@
 #include <stdio.h>
-
+#include <stdlib.h>
 
 int main() {
+
+
     int ladoA, ladoB, ladoC;
+
     printf("Digite os tres lados do triangulo (ex: 3 4 5): ");
     scanf("%d %d %d", &ladoA, &ladoB, &ladoC);
 
