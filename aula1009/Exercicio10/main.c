@@ -11,6 +11,7 @@ int main(void) {
     scanf("%lf %c", &temp, &l);
     switch (l) {
         case 'C':
+        case 'c':
             printf("Celsius para Fahr..\n");
             F = temp * 9 / 5.0 + 32;
             printf("Fahrenheit: %.1f\n", F);
@@ -19,6 +20,7 @@ int main(void) {
             printf("Kelvin: %.1f\n", K);
             break;
         case 'F':
+        case 'f':
             printf("Fahrenheit para Celsius..\n");
             C = (temp - 32) * 5 / 9.0;
             printf("Celsius: %.1f\n", C);
@@ -27,6 +29,7 @@ int main(void) {
             printf("Kelvin: %.1f\n", K);
             break;
         case 'K':
+        case 'k':
             printf("Kelvin para Fahr..\n");
             F = (temp - 273.15) * 5 / 9.0 + 32.0;
             printf("Fahrenheit: %.1f\n", F);

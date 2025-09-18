@@ -2,13 +2,9 @@
 #include <stdlib.h>
 
 int main() {
-
-
     int ladoA, ladoB, ladoC;
-
     printf("Digite os tres lados do triangulo (ex: 3 4 5): ");
     scanf("%d %d %d", &ladoA, &ladoB, &ladoC);
-
     if (ladoA + ladoB > ladoC && ladoA + ladoC > ladoB && ladoB + ladoC > ladoA) {
 
         // Classificacao com swtich
@@ -49,7 +45,7 @@ int main() {
         }
 
         // Usa 'long long' para evitar overflow em cálculos com números grandes
-        if ((long long)lado1 * lado1 + (long long)lado2 * lado2 == (long long)maiorLado * maiorLado) {
+        if (lado1 * lado1 + lado2 * lado2 == maiorLado * maiorLado) {
             printf(" e retangulo.\n");
         } else {
             printf(".\n");
