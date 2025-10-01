@@ -9,10 +9,10 @@ int main(void) {
         preco = 15.00;
     }else if (idade <= 17) {
         preco = 20.00;
-    }else if (idade >= 60){
-        preco = 10.00;
-    }else {
+    }else if (idade<= 59){
         preco = 30.00;
+    }else {
+        preco = 10.00;
     }
     printf("Preco do ingresso: %.2lf\n", preco);
     return 0;
