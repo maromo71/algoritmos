@@ -1,0 +1,8 @@
+print("*" * 30)
+print("*                          *")
+print("*  Bem Vindo ao Meu Mundo  *")
+print("*                          *")
+print("*" * 30)
+print("\\O/    <----- Este sou eu")
+print(" |")
+print("/ \\")
