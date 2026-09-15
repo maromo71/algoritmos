@@ -1,0 +1,27 @@
+/* Espaçamento entre linhas, alinhamento justificado e margem inferior nos parágrafos */
+p {
+  line-height: 1.8;              /* Espaçamento entre linhas mais arejado e legível */
+  text-align: justify;           /* Texto justificado nas margens */
+  hyphens: auto;                 /* Hifenação automática para evitar buracos no texto justificado */
+  margin-bottom: 1.5rem;         /* Espaço entre um parágrafo e o próximo */
+}
+
+/* Espaçamento abaixo dos títulos e hierarquia de margem */
+h1, h2, h3, h4, h5, h6 {
+  line-height: 1.3;
+  margin-top: 2rem;              /* Afasta o título do conteúdo anterior */
+  margin-bottom: 1rem;           /* Espaço garantido DEPOIS de cada título */
+  text-wrap: balance;
+  font-weight: bold;
+}
+li {
+  text-align: justify;           /* Justifica o texto de cada item */
+  hyphens: auto;                 /* Evita espaços vazios exagerados */
+  line-height: 1.3;              /* Melhora a leitura entre as linhas */
+  margin-bottom: 0.5rem;         /* Espaço entre um item e outro */
+}
+/* Ajuste específico para o primeiro título não ter margem no topo */
+h1:first-child,
+h2:first-child {
+  margin-top: 0;
+}

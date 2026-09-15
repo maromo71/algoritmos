@@ -1,9 +1,12 @@
+<link rel="stylesheet" href="estilo.css">
+
 > Caros Alunos,
 Criei uma nova lista com 10 enunciados inéditos, usando o mesmo padrão anterior. Todos destacam de forma nítida os quatro elementos do laço: **inicialização**, **condição de parada**, **corpo da repetição** e **atualização** (incremento/decremento/nova leitura).
 
 ---
 
 ### Bloco 1: Repetições com limites definidos (ideais para introdução ao laço com contador / `for`)
+
 
 1. **Múltiplos de 5**
 Construa um fluxograma que inicialize uma variável contadora e exiba na tela todos os múltiplos de 5 no intervalo de **5 a 50** (5, 10, 15, ..., 50), incrementando o valor a cada iteração.
